@@ -32,14 +32,14 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    # Substitua pela URL do seu repositório
+    
     git clone [https://github.com/EstagiarioDEVssa/To-do-list-Angular-ionic.git)
     ```
 
 2.  **Acesse o diretório do projeto:**
     ```bash
-    # Substitua pelo nome do diretório do seu projeto
-    cd seu-repositorio
+    
+    cd To-do-list-Angular-ionic
     ```
 
 3.  **Instale as dependências do projeto:**
